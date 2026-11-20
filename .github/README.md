@@ -1,6 +1,6 @@
 # zita-resampler release snapshots
 
-The files of the release archives of [zita-resampler](https://kokkinizita.linuxaudio.org/linuxaudio/), one commit per release, exactly as published. This is not a fork and not a mirror, and its author does not maintain it.
+The files of the release archives of [zita-resampler](https://kokkinizita.linuxaudio.org/linuxaudio/), one commit per release, exactly as published. This is not a fork and not a mirror. zita-resampler is developed and maintained by its author at https://kokkinizita.linuxaudio.org/linuxaudio/: nothing is developed or maintained here, and this repository is not affiliated with the project. It only keeps snapshots of the releases.
 
 zita-resampler is a C++ library for resampling audio, by Fons Adriaensen, with the NEON code by Nicolas Belin (`AUTHORS`). It is under the GPL 3 or later (`COPYING`). Questions and contributions belong to its author: https://kokkinizita.linuxaudio.org/linuxaudio/.
 
